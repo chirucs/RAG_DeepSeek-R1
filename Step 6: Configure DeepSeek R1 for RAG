@@ -1,0 +1,17 @@
+# python
+from ollama import Ollama
+from string import Template
+
+# Instantiate the model
+llm = Ollama(model="deepseek-r1:1.5b")
+
+# Craft the prompt template using string. Template for better readability
+prompt_template = Template("""
+Use ONLY the context below.
+If unsure, say "I don't know".
+Keep answers under 4 sentences.
+
+Context: $context
+Question: $question
+Answer:
+""")
