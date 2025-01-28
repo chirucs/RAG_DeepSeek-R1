@@ -9,7 +9,7 @@ Building a Retrieval-Augmented Generation (RAG) System with DeepSeek R1
 Author: Asif Razzaq
 Date: January 27, 2025
 
-Overview 🌟
+Overview -
 
 This repository provides a step-by-step guide to building a Retrieval-Augmented Generation (RAG) system using DeepSeek R1, an advanced open-source AI model known for its state-of-the-art performance. DeepSeek R1 offers remarkable capabilities, often matching proprietary solutions across various metrics, making it an ideal choice for RAG systems.
 
@@ -23,7 +23,7 @@ A Retrieval-Augmented Generation (RAG) system is a cutting-edge AI framework tha
 
 RAG systems are widely used in applications like intelligent assistants, customer support bots, and large-scale knowledge retrieval.
 
-Why DeepSeek R1? 🚀
+Why DeepSeek R1? 
 
 DeepSeek R1 stands out because of:
 	•	High performance: Comparable to proprietary models on various metrics.
@@ -32,7 +32,7 @@ DeepSeek R1 stands out because of:
 
 Its lightweight yet powerful architecture ensures efficient retrieval and contextual generation, making it a great foundation for RAG systems.
 
-Guide Contents 📚
+Guide Contents 
 
 This repository covers the following steps:
 	1.	Environment Setup
@@ -51,7 +51,7 @@ This repository covers the following steps:
 	•	Fine-tuning DeepSeek R1 for specific use cases.
 	•	Tips to improve retrieval accuracy and generation fluency.
 
-Prerequisites ⚙️
+Prerequisites 
 
 Before getting started, ensure you have the following:
 	•	Python 3.8+
