@@ -9,6 +9,7 @@ By following this guide, you’ll gain a clear understanding of how to set up, c
 
 
 What is a RAG System? 
+
 A Retrieval-Augmented Generation (RAG) system is a cutting-edge AI framework that combines two key components:
 	1.	Retrieval: Fetching relevant information from external data sources like documents or databases.
 	2.	Generation: Producing coherent and context-aware responses using an AI model, with retrieved data enriching the output.
@@ -17,6 +18,7 @@ RAG systems are widely used in applications like intelligent assistants, custome
 
 
 Why DeepSeek R1? 
+
 DeepSeek R1 stands out because of:
 	•	High performance: Comparable to proprietary models on various metrics.
 	•	Open-source flexibility: Freedom to customize and scale.
@@ -26,6 +28,7 @@ Its lightweight yet powerful architecture ensures efficient retrieval and contex
 
 
 Guide Contents 
+
 This repository covers the following steps:
 	1.	Environment Setup
 	•	Preparing your development environment to run DeepSeek R1.
@@ -53,8 +56,10 @@ Before getting started, ensure you have the following:
 
 
 Community Contributions 💬
+
 We welcome contributions! Whether it’s improving the guide, sharing use cases, or reporting issues, feel free to open a pull request or start a discussion.
 
 
 License 📝
+
 This project is unlicensed folks.
