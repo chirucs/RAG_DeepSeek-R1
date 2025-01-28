@@ -1,0 +1,12 @@
+# python
+class SimpleRetriever:
+    def __init__(self, index, embeddings_model):
+        self.index = index
+        self.embeddings_model = embeddings_model
+    
+    def retrieve(self, query, k=3):
+        query_embedding = self.embeddings_model.embed(query)
+        distances, indices = self.index.search(np.array([query_embedding]).astype('float32'), k)
+        return [documents[i] for i in indices[0]]
+
+retriever = SimpleRetriever(index, embeddings_model)
