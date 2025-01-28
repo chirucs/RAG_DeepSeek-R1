@@ -1,14 +1,6 @@
 # RAG_DeepSeek-R1
 Building a Retrieval-Augmented Generation (RAG) System with DeepSeek R1
 
-
-Here’s a draft for your README.md file for the GitHub repository, written in a professional and engaging tone:
-
-Building a Retrieval-Augmented Generation (RAG) System with DeepSeek R1
-
-Author: Asif Razzaq
-Date: January 27, 2025
-
 Overview -
 
 This repository provides a step-by-step guide to building a Retrieval-Augmented Generation (RAG) system using DeepSeek R1, an advanced open-source AI model known for its state-of-the-art performance. DeepSeek R1 offers remarkable capabilities, often matching proprietary solutions across various metrics, making it an ideal choice for RAG systems.
