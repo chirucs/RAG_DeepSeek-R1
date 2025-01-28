@@ -1,0 +1,12 @@
+# python
+def answer_query(question):
+    # Retrieve relevant context from the knowledge base
+    context = retriever.retrieve(question)
+    
+    # Combine retrieved contexts into a single string (if multiple)
+    combined_context = "n".join(context)
+    
+    # Generate an answer using DeepSeek R1 with the combined context
+    response = llm.generate(prompt_template.substitute(context=combined_context, question=question))
+    
+    return response.strip()
