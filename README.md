@@ -36,15 +36,19 @@ This repository covers the following steps:
 	1.	Environment Setup
 		Preparing your development environment to run DeepSeek R1.
 		Installing dependencies, libraries, and toolkits required for RAG systems.
+  
 	2.	Understanding the DeepSeek R1 Workflow
 		How DeepSeek R1 interacts with retrieval and generation modules.
 		Key architectural components of RAG with DeepSeek R1.
+  
 	3.	Building the RAG System
 		Connecting retrieval modules to external knowledge bases or document stores.
 		Configuring the model to generate augmented responses using retrieved data.
+  
 	4.	Running and Testing
 		Running example queries.
 		Testing RAG system performance with various datasets.
+  
 	5.	Optimization and Best Practices
 		Fine-tuning DeepSeek R1 for specific use cases.
 		Tips to improve retrieval accuracy and generation fluency.
