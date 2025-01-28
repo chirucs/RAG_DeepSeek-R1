@@ -1,1 +1,15 @@
+# python
+from huggingface_hub import HuggingFaceEmbeddings
+import faiss
+import numpy as np
 
+# Initialize the embeddings model
+embeddings_model = HuggingFaceEmbeddings()
+
+# Generate embeddings for all documents
+document_embeddings = [embeddings_model.embed(doc) for doc in documents]
+document_embeddings = np.array(document_embeddings).astype('float32')
+
+# Create FAISS index
+index = faiss.IndexFlatL2(document_embeddings.shape[1])  # L2 distance metric
+index.add(document_embeddings)  # Add document embeddings to the index
