@@ -52,6 +52,7 @@ This repository covers the following steps:
 Prerequisites 
 
 Before getting started, ensure you have the following:
+
 	•	Python 3.8+
 	•	Access to external knowledge sources (e.g., document stores, databases).
 	•	Familiarity with AI/ML concepts like language models, retrieval systems, and API integration.
