@@ -1,0 +1,1 @@
+To enable efficient retrieval of relevant documents, you can use a vector store like FAISS (Facebook AI Similarity Search). This involves generating embeddings for your documents.
