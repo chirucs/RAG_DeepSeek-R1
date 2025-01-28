@@ -1,0 +1,5 @@
+# python
+if __name__ == "__main__":
+    user_question = "What are the key features of DeepSeek R1?"
+    answer = answer_query(user_question)
+    print("Answer:", answer)
