@@ -21,6 +21,7 @@ RAG systems are widely used in applications like intelligent assistants, custome
 Why DeepSeek R1? 
 
 DeepSeek R1 stands out because of:
+
 	•	High performance: Comparable to proprietary models on various metrics.
 	•	Open-source flexibility: Freedom to customize and scale.
 	•	Ease of integration: Designed with modularity to fit into existing RAG pipelines.
@@ -31,6 +32,7 @@ Its lightweight yet powerful architecture ensures efficient retrieval and contex
 Guide Contents 
 
 This repository covers the following steps:
+
 	1.	Environment Setup
 	•	Preparing your development environment to run DeepSeek R1.
 	•	Installing dependencies, libraries, and toolkits required for RAG systems.
