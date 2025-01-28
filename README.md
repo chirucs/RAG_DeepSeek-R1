@@ -66,7 +66,7 @@ Before getting started, ensure you have the following:
 
 Community Contributions 💬
 
-We welcome contributions! Whether it’s improving the guide, sharing use cases, or reporting issues, feel free to open a pull request or start a discussion.
+I welcome contributions! Whether it’s improving the guide, sharing use cases, or reporting issues, feel free to open a pull request or start a discussion.
 
 
 License 📝
