@@ -11,9 +11,9 @@ By following this guide, you’ll gain a clear understanding of how to set up, c
 What is a RAG System? 
 
 A Retrieval-Augmented Generation (RAG) system is a cutting-edge AI framework that combines two key components:
-```	1.	Retrieval: Fetching relevant information from external data sources like documents or databases.
+	1.	Retrieval: Fetching relevant information from external data sources like documents or databases.
 	2.	Generation: Producing coherent and context-aware responses using an AI model, with retrieved data enriching the output.
-```
+
 
 RAG systems are widely used in applications like intelligent assistants, customer support bots, and large-scale knowledge retrieval.
 
